@@ -1,2 +1,1 @@
-# PrepCourse-Henry1
-Repositorio nuevamente creado para inciar de 0 para el curso de Henry 
+ Este proyecto es una pruba realizada por segunda vez para entender el funcionamiento de las herramientas de trabajo. 
